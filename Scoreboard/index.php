@@ -50,7 +50,7 @@
                 </ul>
             </div>
         </nav>
-        <!MENU DE NAVEGAÇÃO-->
+        <!--MENU DE NAVEGAÇÃO-->
     <!--CONTEÚDO DO SITE - BOTÕES DE REDIRECIONAMENTO-->
     <div class="container mt-5 pt-3">
         <h1 class="mb-5">Gerenciador de Jogos</h1>
